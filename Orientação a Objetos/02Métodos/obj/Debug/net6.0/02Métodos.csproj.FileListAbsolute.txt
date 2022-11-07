@@ -1,0 +1,15 @@
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\Orientação a Objetos\02Métodos\bin\Debug\net6.0\02Métodos.exe
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\Orientação a Objetos\02Métodos\bin\Debug\net6.0\02Métodos.deps.json
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\Orientação a Objetos\02Métodos\bin\Debug\net6.0\02Métodos.runtimeconfig.json
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\Orientação a Objetos\02Métodos\bin\Debug\net6.0\02Métodos.dll
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\Orientação a Objetos\02Métodos\bin\Debug\net6.0\02Métodos.pdb
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\Orientação a Objetos\02Métodos\obj\Debug\net6.0\02Métodos.csproj.AssemblyReference.cache
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\Orientação a Objetos\02Métodos\obj\Debug\net6.0\02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\Orientação a Objetos\02Métodos\obj\Debug\net6.0\02Métodos.AssemblyInfoInputs.cache
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\Orientação a Objetos\02Métodos\obj\Debug\net6.0\02Métodos.AssemblyInfo.cs
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\Orientação a Objetos\02Métodos\obj\Debug\net6.0\02Métodos.csproj.CoreCompileInputs.cache
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\Orientação a Objetos\02Métodos\obj\Debug\net6.0\02Métodos.dll
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\Orientação a Objetos\02Métodos\obj\Debug\net6.0\refint\02Métodos.dll
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\Orientação a Objetos\02Métodos\obj\Debug\net6.0\02Métodos.pdb
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\Orientação a Objetos\02Métodos\obj\Debug\net6.0\02Métodos.genruntimeconfig.cache
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\Orientação a Objetos\02Métodos\obj\Debug\net6.0\ref\02Métodos.dll
