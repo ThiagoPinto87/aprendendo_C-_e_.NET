@@ -1,0 +1,15 @@
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\aprendendo_C-_e_.NET\Orientação a Objetos\09This\bin\Debug\net6.0\09This.exe
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\aprendendo_C-_e_.NET\Orientação a Objetos\09This\bin\Debug\net6.0\09This.deps.json
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\aprendendo_C-_e_.NET\Orientação a Objetos\09This\bin\Debug\net6.0\09This.runtimeconfig.json
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\aprendendo_C-_e_.NET\Orientação a Objetos\09This\bin\Debug\net6.0\09This.dll
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\aprendendo_C-_e_.NET\Orientação a Objetos\09This\bin\Debug\net6.0\09This.pdb
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\aprendendo_C-_e_.NET\Orientação a Objetos\09This\obj\Debug\net6.0\09This.csproj.AssemblyReference.cache
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\aprendendo_C-_e_.NET\Orientação a Objetos\09This\obj\Debug\net6.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\aprendendo_C-_e_.NET\Orientação a Objetos\09This\obj\Debug\net6.0\09This.AssemblyInfoInputs.cache
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\aprendendo_C-_e_.NET\Orientação a Objetos\09This\obj\Debug\net6.0\09This.AssemblyInfo.cs
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\aprendendo_C-_e_.NET\Orientação a Objetos\09This\obj\Debug\net6.0\09This.csproj.CoreCompileInputs.cache
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\aprendendo_C-_e_.NET\Orientação a Objetos\09This\obj\Debug\net6.0\09This.dll
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\aprendendo_C-_e_.NET\Orientação a Objetos\09This\obj\Debug\net6.0\refint\09This.dll
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\aprendendo_C-_e_.NET\Orientação a Objetos\09This\obj\Debug\net6.0\09This.pdb
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\aprendendo_C-_e_.NET\Orientação a Objetos\09This\obj\Debug\net6.0\09This.genruntimeconfig.cache
+C:\Users\User-Pc\Google Drive\Estudos\Estudos de Programação\C# .NET\aprendendo_C-_e_.NET\Orientação a Objetos\09This\obj\Debug\net6.0\ref\09This.dll
