@@ -12,7 +12,9 @@ class Aluno
     }
 
     /*
-        O colocarmos os atributos acima como private e posteriormente colocarmos somente a mensagem como público, estamos encapsulando, demonstrando somente o que queremos ao usuários. Pode também notar que na mensagem, solicitamos ao usuário, inputs utilizando o "Console.ReadLine()" convertendo tudo para número inteiro usando o "Convert.ToInt32".
+        O colocarmos os atributos acima como private e posteriormente colocarmos somente a mensagem como público, estamos encapsulando,
+        demonstrando somente o que queremos ao usuários. Pode também notar que na mensagem, solicitamos ao usuário, inputs utilizando o
+        "Console.ReadLine()" convertendo tudo para número inteiro usando o "Convert.ToInt32".
     */
 
     // Mensagem
